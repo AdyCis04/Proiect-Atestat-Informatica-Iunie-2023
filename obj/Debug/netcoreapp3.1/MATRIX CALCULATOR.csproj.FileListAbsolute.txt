@@ -1,0 +1,54 @@
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.exe
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.deps.json
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.runtimeconfig.json
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.runtimeconfig.dev.json
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.dll
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.pdb
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX_CALCULATOR.Form1.resources
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.csproj.GenerateResource.cache
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.AssemblyInfo.cs
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.dll
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.pdb
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.genruntimeconfig.cache
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX_CALCULATOR.Form4.resources
+D:\VISUAL STUDIO APPS\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX_CALCULATOR.Properties.Resources.resources
+E:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.exe
+E:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.deps.json
+E:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.runtimeconfig.json
+E:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.runtimeconfig.dev.json
+E:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.dll
+E:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.pdb
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.csproj.AssemblyReference.cache
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX_CALCULATOR.Form4.resources
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX_CALCULATOR.Form1.resources
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX_CALCULATOR.Properties.Resources.resources
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.csproj.GenerateResource.cache
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.AssemblyInfoInputs.cache
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.AssemblyInfo.cs
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.csproj.CoreCompileInputs.cache
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.dll
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.pdb
+E:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.genruntimeconfig.cache
+F:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.exe
+F:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.deps.json
+F:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.runtimeconfig.json
+F:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.runtimeconfig.dev.json
+F:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.dll
+F:\MATRIX CALCULATOR\bin\Debug\netcoreapp3.1\MATRIX CALCULATOR.pdb
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.csproj.AssemblyReference.cache
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX_CALCULATOR.Form4.resources
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX_CALCULATOR.Form1.resources
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX_CALCULATOR.Properties.Resources.resources
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.csproj.GenerateResource.cache
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.AssemblyInfoInputs.cache
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.AssemblyInfo.cs
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.csproj.CoreCompileInputs.cache
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.dll
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.pdb
+F:\MATRIX CALCULATOR\obj\Debug\netcoreapp3.1\MATRIX CALCULATOR.genruntimeconfig.cache
